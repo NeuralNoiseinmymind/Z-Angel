@@ -16,7 +16,7 @@
 
 ### Method 1: Manual
 1.  Navigate to your ComfyUI `custom_nodes` folder.
-2.  Run `git clone https://github.com/[TUO_USERNAME]/ComfyUI-Z-Angel.git`
+2.  Run `git clone https://github.com/NeuralNoiseinmymind/Z-Angel`
     * *Or download the zip, extract it, and rename the folder to `Z-Angel_Node`.*
 3.  Restart ComfyUI.
 
